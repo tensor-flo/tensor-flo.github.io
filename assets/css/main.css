@@ -1986,9 +1986,12 @@ input, select, textarea {
 				height: 38px;
 				background-color: #d4d0c1;
 				background-image: linear-gradient(to top, rgba(212,208,193,0.8), rgba(212, 208, 193,0.8))，url("../../images/background.jpg");
-				background-size: auto, cover;
-				background-attachment: fixed, fixed;
-				background-position: center, center;
+				background-size: auto, 
+			cover;
+				background-attachment: fixed, 
+			fixed;
+				background-position: center, 
+			center;
 			}
 
 			.wrapper .title:after {
@@ -2003,9 +2006,12 @@ input, select, textarea {
 				width: 35px;
 				height: 38px;
 				background-image: linear-gradient(to top, rgba(212,208,193,0.8), rgba(212, 208, 193,0.8))，url("../../images/background.jpg");
-				background-size: auto, cover;
-				background-attachment: fixed, fixed;
-				background-position: center, center;
+				background-size: auto, 
+			cover;
+				background-attachment: fixed, 
+			fixed;
+				background-position: center, 
+			center;
 			}
 
 		.wrapper.style1 {
