@@ -1984,7 +1984,11 @@ input, select, textarea {
 				left: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("images/background.jpg");
+				background-color: #d4d0c1;
+				background-image: linear-gradient(to top, rgba(212,208,193,0.8), rgba(212, 208, 193,0.8))，url("../../images/background.jpg");
+				background-size: auto, cover;
+				background-attachment: fixed, fixed;
+				background-position: center, center;
 			}
 
 			.wrapper .title:after {
@@ -1998,7 +2002,10 @@ input, select, textarea {
 				right: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("images/background.jpg");
+				background-image: linear-gradient(to top, rgba(212,208,193,0.8), rgba(212, 208, 193,0.8))，url("../../images/background.jpg");
+				background-size: auto, cover;
+				background-attachment: fixed, fixed;
+				background-position: center, center;
 			}
 
 		.wrapper.style1 {
