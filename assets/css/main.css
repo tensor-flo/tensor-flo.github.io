@@ -1655,7 +1655,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #ba8c00;
+			background-color: #FFBF00;
 		}
 
 		input[type="button"].large,
@@ -1672,7 +1672,7 @@ input, select, textarea {
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #FFBF00 url("images/overlay.png");
+			background: #ba8c00 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1681,7 +1681,7 @@ input, select, textarea {
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				background-color: #ba8c00;
+				background-color: #FFBF00;
 			}
 
 			input[type="button"].style1:active,
