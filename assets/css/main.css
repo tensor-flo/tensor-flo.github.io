@@ -2123,7 +2123,7 @@ input, select, textarea {
 			border-radius: 0.35em;
 			box-shadow: inset 0px 0px 1px 1px #ba8c00;
 			padding: 0 1.5em 0 1.5em;
-			background-color: rgba(225,225,225,0.75);
+			background-color: rgba(225,225,225,0.25);
 		}
 
 			#nav > ul > li {
