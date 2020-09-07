@@ -2121,9 +2121,8 @@ input, select, textarea {
 		#nav > ul {
 			display: inline-block;
 			border-radius: 0.35em;
-			box-shadow: inset 0px 0px 1px 1px #ba8c00;
+			box-shadow: inset 0px 0px 1px 1px #484d55;
 			padding: 0 1.5em 0 1.5em;
-			background-color: rgba(225,225,225,0.25);
 		}
 
 			#nav > ul > li {
@@ -2139,7 +2138,7 @@ input, select, textarea {
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
 					color: #eee;
-					color: #ba8c00;
+					color: #484d55;
 					text-transform: uppercase;
 					text-decoration: none;
 					font-size: 0.7em;
